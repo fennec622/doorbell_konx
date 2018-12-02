@@ -13,8 +13,8 @@ gateway_ip = "10.0.0.1"
 target_ip = "10.0.0.209"
 conf.iface = "eth0"
 conf.verb = 0
-mqttchannel = "portierMotionDetect" 
-mqttmessage = "true"
+mqttchannel = "" 
+mqttmessage = ""
 mqtthost = "10.0.0.2"
 url="http://10.0.0.100/api"
 
